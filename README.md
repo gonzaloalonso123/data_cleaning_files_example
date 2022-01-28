@@ -1,1 +1,2 @@
-# data_cleaning_files_example
+input is mediciones.txt
+
